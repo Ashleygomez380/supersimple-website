@@ -1,0 +1,36 @@
+p {
+            font-family:Arial;
+            margin-bottom: 0;
+            margin-top: 0;
+        }
+        .videotitle{
+            font-weight:bold;;
+            width:280px;
+            line-height: 24px;
+            margin-bottom: 5px;
+            font-size:18px;}
+        .videostats{
+            color:rgb(96,96,96);
+            margin-bottom: 25px;
+            font-size:14px;}
+        .video-author{
+            font-size: 14px;
+            margin-bottom: 20px;
+            color:rgb(96,96,96);}
+        .video-description{
+            width:280px;
+            line-height: 22px;
+            margin-bottom: 25px;
+            color: rgb(96,96,96);}
+        .appletext{
+            margin-top:50px;
+            background-color: rgb(227,65,64);
+            color:white;
+            text-align: center;
+            padding-top:18px;
+            padding-bottom: 18px;
+            font-size;14px}
+        .applespan{margin-left:10px}
+        .applespan:hover{
+            text-decoration: underline;
+            cursor:pointer;}
